@@ -2,11 +2,11 @@
 
 I'm Patrick (@cuiboy), Product Design Intern at GitHub.
 
-📘 I'm a student at UC Berkeley studying EECS (Electrical Engineering and Computer Sciences). 
-📍 I'm originally from Irvine, CA and I'm currently based in San Francisco.
-🎨 I self-taught product design when I was 16 when I built my first [app](https://www.youtube.com/watch?v=sUxqTC2_dTk&themeRefresh=1).
-💡 I'm obsessed with ideas and exploring how good ideas solve other people's problems.
-📷 I'm a drone photographer & filmmaker outside of work, check out my work [here](http://instagram.com/patrick.drone).
+- 📘 I'm a student at UC Berkeley studying EECS (Electrical Engineering and Computer Sciences).
+- 📍 I'm originally from Irvine, CA and I'm currently based in San Francisco.
+- 🎨 I self-taught product design when I was 16 when I built my first [app](https://www.youtube.com/watch?v=sUxqTC2_dTk&themeRefresh=1).
+- 💡 I'm obsessed with ideas and exploring how good ideas solve other people's problems.
+- 📷 I'm a drone photographer & filmmaker outside of work, check out my work [here](http://instagram.com/patrick.drone).
 
 Feel free to ping me on Slack @cuiboy for anything and connect with me on [Linkedin](https://linkedin.com/in/cuipatrick) :)
 
